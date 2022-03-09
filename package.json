@@ -1,6 +1,6 @@
 {
   "name": "@tidio/typescript-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Tidio typescript config",
   "main": "tsconfig.json",
   "author": "Jarosław Salwa <jaroslaw@tidio.net>",
