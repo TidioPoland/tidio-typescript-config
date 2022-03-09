@@ -1,0 +1,16 @@
+{
+  "name": "@tidio/typescript-config",
+  "version": "0.0.1",
+  "description": "Tidio typescript config",
+  "main": "tsconfig.json",
+  "author": "Jarosław Salwa <jaroslaw@tidio.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TidioLtd/tidio-typescript-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TidioLtd/tidio-typescript-config/issues"
+  },
+  "homepage": "https://github.com/TidioLtd/tidio-typescript-config#readme"
+}
